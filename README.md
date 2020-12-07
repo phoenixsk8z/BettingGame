@@ -1,2 +1,3 @@
 # BettingGame
-Betting Game made with python
+Betting Game made with pygame
+
